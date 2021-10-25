@@ -1,0 +1,4 @@
+//avatars
+String dq ="assets/avatars/218634107_359964132154962_4112799846361271272_n.jpg";
+
+
